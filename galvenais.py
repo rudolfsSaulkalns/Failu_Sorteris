@@ -1,8 +1,6 @@
 import os, shutil
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
-from distutils.file_util import move_file
-from distutils.dir_util import mkpath
 import galapunkti
 
 downloads = r"C:\Users\Rudolfs\Downloads - Copy"
